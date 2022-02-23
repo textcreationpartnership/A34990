@@ -1,0 +1,1044 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of the Church of Scotland with a word of reproofe to the priests, and teachers, and officers therein, for their many corrupt doctrines and practices, also a warning and a gentle invitation to all people, that lives under their tyrannicall government, to come to the truth ... : herein is their church made manifest ... : with an exhortation to all people to come out from amongst them ... / written in love to the simple-hearted in that nation ... by one who desires that people might be brought to the truth ... who am known among men by the name Stephen Crisp.</title>
+            <author>Crisp, Stephen, 1628-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34990</idno>
+            <idno type="STC">Wing C6928</idno>
+            <idno type="STC">ESTC R40352</idno>
+            <idno type="EEBO-CITATION">18958967</idno>
+            <idno type="OCLC">ocm 18958967</idno>
+            <idno type="VID">108485</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34990)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108485)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1666:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A description of the Church of Scotland with a word of reproofe to the priests, and teachers, and officers therein, for their many corrupt doctrines and practices, also a warning and a gentle invitation to all people, that lives under their tyrannicall government, to come to the truth ... : herein is their church made manifest ... : with an exhortation to all people to come out from amongst them ... / written in love to the simple-hearted in that nation ... by one who desires that people might be brought to the truth ... who am known among men by the name Stephen Crisp.</title>
+                  <author>Crisp, Stephen, 1628-1692.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M.W. ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Controversial literature.</term>
+               <term>Society of Friends --  England --  Apologetic works.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="1" facs="tcp:108485:1" rendition="simple:additions"/>
+            <p>
+               <hi>A DESCRIPTION of the CH<g ref="char:V">Ʋ</g>RCH OF</hi> SCOTLAND: <hi>WITH</hi> A Word of Reproofe to the
+<hi>Prieſts,</hi> and <hi>Teachers,</hi> and <hi>Officers</hi> therein, for their many corrupt
+Doctrines and Practiſes; alſo a warning, and gentle invi<g ref="char:EOLhyphen"/>tation to all People, that lives under
+their Tyrannicall Government, to come to the <hi>Truth,</hi> which will free them from the Bondage
+they have long laine under; and to the light which will ſhew them the way to eſcape, being
+longer Partakers of their ſins; and ſo they ſhall eſcape, being Partakers of the Plagues
+which ſhall ſhortly be poured forth without mixture upon them, which continue in their ungodly
+Deedes and Workes of darkneſſe, in Rebellions againſt the light that makes them manifeſt.
+Herein is their Church made manifeſt: 1 In its Foundation: 2 In its Members wherewith it is
+builded: 3 In its Officers: 4 In its Doctrines, of God, of Gods Word, of Faith, and of Election: 5
+In its Ordinances of Baptiſme, and the Lords Supper, (as they call them.) 6 In its Diſcipline.
+With an Exhortation to all People to come out from amongſt them, to that which makes them
+manifeſt, which is the true Light that lighteth every Man that cometh into the World.</p>
+            <p>Written in love to the ſimple-hearted in that Nation, and in wit<g ref="char:EOLhyphen"/>neſſe of the T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uth, and
+in Teſtimony againſt the falſe Teachers, and their falſe Doctrines, Way<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and Worſhips;
+by One who deſires that people might be brought to the Truth in their inward parts, to worſhip
+God in that, by the lead<g ref="char:EOLhyphen"/>ing of his own ſpirit, that ſo they might be accepted;
+<gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> who am known among Men by the name <hi>Stephen Crisp.</hi>
+            </p>
+            <p>Printed for M. W. in the firſt Moneth, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:108485:2"/>
+            <head>A Deſcription of the Church of <hi>Scotland, &amp;c.</hi>
+            </head>
+            <p>TO the ſeverall Presbetryes in Scotland, and to every Member of them, and to the Scottiſh
+Church in generall, is this directed and ſent as a word of reproofe and warning from him who is
+the head of the true Church, which is pure and underfiled, and ſent by, and given thorough his
+Servant, who being a Member of that Church, and par<g ref="char:EOLhyphen"/>ticipating of the power and wiſedome of the
+Head (according to the proportion of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Member) doe thereby comprehend your Church of which I
+am not a Member; and in obedience to the Lord Jeſus Chriſt the true Head, doe hereby reprove
+you of your adulte<g ref="char:EOLhyphen"/>ry and hypocriſie, and ſeverall other ſpots and wrinckles that are in and
+upon your Church, which now with the light are made manifeſt; And in the feare and name of the
+Lord, doe warne you to returne, and come to that which maketh manifeſt and maketh cleane, before
+yee be caſt upon the bed of miſery and perpetuall ſorrow with <hi>Babilon</hi> your Mother,
+and Jezebell your Propheteſſe, by the power of whoſe ſorceries and inchantments, in and
+among her Merchants and Diſciples, many p or people in thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Nation, are ſeduced and deceived
+and kept from the anoynting, which teacheth freely the truth, which no lye is of nor ſprings
+from, and they whom you keep from this which teacheth freely, that ſo they might buy or hire
+teaching of you, among whom they are ever learning and never learned, nor brought to know the truth
+which makes them fre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that abides in it: Theſe I ſay can never know the true Church which is
+the ground o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> truth, in which none can be Pillars, but ſuch as overcome ſin and
+tranſgreſſion and death which entred thereby, and came over all Men, in which ſtate Gods
+Church is not, and there is but two ſtates: namely the ſtate of ſin and tranſgreſſion,
+the wages whereof i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> death; and the ſtate of redemption from ſin, which is thorow the power of
+the reſurrecti<g ref="char:EOLhyphen"/>on from the dead, which is the ſtate of the Church, between which two ſtates
+is an abſo<g ref="char:EOLhyphen"/>lute antipathy, for they that are in the tranſgreſſion are not in the Church,
+for then i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would be ſpotted, and they that are in the Church are not in the tranſgreſſion,
+becauſe the Church is in God where tranſgreſſion cannot be; and they that are holden in
+ſin and death are not riſen from the dead, and they who are made partakers of the
+reſurrection and life which is Chriſt; they are not holden in ſin, but the ſame power that
+raiſed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Jeſus from the dead, raiſed them from the power of ſin and death, and being
+thus rai<g ref="char:EOLhyphen"/>ſed makes them Members of the Church, which is pure and undefiled, which is ſeparate
+from the ſinners and from the ſin, by the mighty operation of the croſſe, which is th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+power of God, by which we are tranſlated from death to life, from ſin to righteouſneſſe
+from being Members of the Harlot and her Church, to be Members of Chriſt and h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Church, and this
+is the Church which we owne and witneſſe.</p>
+            <p>Now as concerning your Church, I have not a few things againſt it, but even many, where in you
+are to be reprooved, and muſt be amended or rather changed, before you can juſtly b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:108485:2"/>called, and accounted the Church of Chriſt, or any part thereof: Therefore
+liſten a while and give attention, ye Prieſts and Presbetryes of <hi>Scotland,</hi> who hath a
+long time beene talking of reforming and amending and purging and making cleane your Church, and I
+will declare unto you your way, which ye ought to take, to accompliſh that which you ſo much
+pretend for, and cannot yet accompliſh, nor indeed never can till that be removed which hath and
+doth hinder a right and thorow reformation.</p>
+            <p>Now the firſt thing in your Church that is preſented to my underſtanding, to be repoved,
+is the foundation thereof upon which it is builded, it not being the ſame which the Church of
+Chriſt was, and is builded upon, as will thus appeare.</p>
+            <p>The foundation of your Church is that which ſtands in the fleſhly part of man: namely formes
+and names of the things the Saints wrought off, without the power, which are attain<g ref="char:EOLhyphen"/>able by the
+fleſhly wiſedome of this world, by which God is not known nor the body which is the Church
+diſcerned; but he that can get the Saints words to ſpeake although he be out of their life, yet
+ſuch are accounted fit members of your Church, and of ſuch members, and up<g ref="char:EOLhyphen"/>on this foundation
+is your Church builded, the Saints words being the chiefe corner ſtone therof, but Chriſt
+ſaid be would build his Church upon that which the knowledge of came not by fleſh nor blood,
+but revelation from God his Father, which is in heaven, as you may read in the <hi>16. Math.
+17.18.</hi> And this is the rock which is now made manifeſt by revelation, thorow the ſpirit,
+which thing you deny to be in theſe dayes, and ſo are not builded upon what comes to be known
+ſo, but upon that which the knowledge of comes by fleſh and blood, and you that have laid
+another foundation for your Church, then what is by revelation, your foundation muſt be raiſed,
+and your Church muſt fall, the Pillars whereof are already ſhaken, and ſhall ſhortly be
+removed.</p>
+            <p>Therefore come all to the true foundation, which was and is the foundation of the true Church
+which is Chriſt the Son of the living God, who is the light of the world, and lighteth every man
+that commeth into the world with the true light, and let that be the beginning and foundation of
+your building, and that will ſtand for ever, this was before tranſgreſſion was, and before
+will worſhip was, againſt this the gates of hell cannot prevaile.</p>
+            <p>This is the corner-ſtone which ye builders have rejected, and doe ſtill reject, [the light]
+and ſo refecting it, are building <hi>Babylon</hi> (as it were) which is now confounding, and yee
+are put to a ſtop, and can proceed no farther, for the people ſees your confuſion in many
+parts of the Nation, and begins to love and imbrace them whom you have caſt out of your Church,
+who have the light for their foundation, which anſwereth the witneſſe of God in all, and who
+ſoever builds and not on this, their building ſhall come to naught, and the builders ſhall be
+a<g ref="char:EOLhyphen"/>ſhamed, for that which ſhould uphold them, will come a top of them, and breake them to
+peices.</p>
+            <p>The next thing reprovable in your Scottiſh Church, is the matter whereof it is compoſed, and
+in this alſo are you contrary to the true Church the Spouſe of Chriſt, for your Church is
+compoſed of evill and ungodly men and women whoſe hearts is delighting in ungocly practices, as
+
+<pb n="4" facs="tcp:108485:3"/>wearing, and lying, and couſening, and diſſembling, and ſcoffing, and
+ſcorning, yea in ſtrik<g ref="char:EOLhyphen"/>ing, and beating the innocent, ſuch is your Church made up of; dead
+ſtones, whoſe h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arts are as an Adamant, their mouths filled with curſing, and their tongues
+filled with venome, and their hands filled with violence; theſe is your materialls with which ye
+have builded, but the Lord God of light and power is making you bare and manifeſt, and by his
+power is throwing you down, where ſhame ſhall cover your Church, where the ſcorner ſhall be
+ſcorned in the day of their calamity, and the ſtrikers ſhall be ſt ucken with a rod that
+will breake them to peices, the ſword of the almighty is drawn, and ſhall wound them in their
+inward parts, that have wounded his Children in their outward bodyes, and greived his holy
+ſpirit, and then ſhall howling and lamentation come upon your Church, but there ſhall be none
+to pitty for the double reward of your doings to Gods Children, ſhall ſhortly come upon you,
+and that is the word of the Lord to you.</p>
+            <p>But if you demand, how is all this proved that our Church is compaſſed and made up of ſuch
+perſons as theſe, I anſwer, I prove it thus, not only by the hearing of the ear, nor by what
+I have ſeen of you, in the eternall light of the Son of God before my comming among you, but
+alſo being an eye witneſſe of your behaviour fowards me, who when I have in obedience to God,
+and love to your ſouls, but proclarmed the fear of God amongſt you, in one of your
+Maſſe-houſes or Markets, what an offence hath it been counted by you, who are of the
+Scottiſh Fresbiterian Church, ſome crying kick him, kick him, knock him down, and ſuch like
+language and uſage have I and many of my brethren and ſiſt rs found amongſt you, as in
+particular the behaviour of the people of Dalkieth on the <hi>13th</hi> of the <hi>9th</hi> month,
+<hi>59.</hi>) may witneſs where had not the Soldiers appeared as a ſtop to your murderous
+purpoſes againſt me, your works of miſchief had more appeared, but your ſpirit is ſeen
+and known to be of one nature with the ſcarlet colored where, whothirſteth after and is drunk
+with the blood of the Saints, beſides there needs no greater proofe of this charge againſt your
+Church, but what hath and doth proceed out of your own mouths, who are dayly confeſſing your
+ſelves to be ſuch kind of people, and ſo are judged out of your own mouths, as all ſuch
+ſlothful ſer<g ref="char:EOLhyphen"/>vants ever was, doth not your Prieſt ſay that ye are all going aſtray, every
+one after the luſts of his own heart, and have forſaken God, the fountaine of living waters,
+and digged to your ſelves Cyſterns that can hold no water, and that your hearts are eſtranged
+from God, regarding lying vanityes, and many ſuch like things might be mentioned from your owne
+mouths, the breath whereof as fire ſhall devoure you, now if it benot ſo, why do you ſay
+ſo, lying againſt your own ſouls, and if it be ſo, how can your Church be the Church of
+God, pure, and undefiled, unſpotted, and with<g ref="char:EOLhyphen"/>out wrinkle, or any ſuch thing, anſwer for your
+ſelves, or ceaſe from deceiving your ſelves and o<g ref="char:EOLhyphen"/>thers with the name Church of God, for with
+him dwelleth no iniquity.</p>
+            <p>Now if the light were the foundation, then would none be counted fit members of your Church but
+ſuch as walked in it, and ſo your fellowſhip would ſtand in the light as the true
+Church-fellowſhip did and doth, but evill doers, as Scoffers, Lyers, Proud, Covetous Perſons,
+Strikers, fierce D ſpiſers, Railers and Perſecutors, ſuch hates the light, and denyes and
+re<g ref="char:EOLhyphen"/>jects it, and ſo may be continued in your Church-fellowſhip, which is in ſin for terme of
+your
+<pb n="5" facs="tcp:108485:3"/>lives and ſhall be continued in the inheritance of utter darkneſſe in the
+end, where ſhall-weeping and wailing and gnaſhing of teeth for ever.</p>
+            <p>Another thing reprovable in your Church is the officers thereof, they being in all thing
+contrary to the qualifications ſignified by the ſcripture of truth, as ye might well ſee, if
+t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> God of this world, the Prince of darkneſſe had not blinded your eyes, a little of the
+diſpro<g ref="char:EOLhyphen"/>portion betweene them and the officers ſpoken of in the Scriptures, (for the ſimples
+ſake wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſires to be informed) I ſhall inſtance, and firſt of all concerning your
+Presbitries, for th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Presbitry which the Scriptures ſpeaks of, who laid their hands on Timothy,
+<hi>1</hi> Tim. <hi>4.14.</hi> We ſuch with whom was the power of God, as was manifeſt by
+Timothyes receiving a gift by th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> laying on of their hands, who had rec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ived the gift of God
+themſelves, and had alſo receive power to communicate the ſame, but you who are proud men and
+covetous men, who uſurp Authority, and preſumes to be called by the name, and deny that power
+to be extant with you or any elſe, or that any can be immediately called or gifted for the
+miniſtry, you are of th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſort mentioned, in the <hi>1</hi> Titus <hi>16.</hi> Who profeſſe
+yee know God, but in wo ks deny him, b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing abominable and diſobedient, and to every good work
+reprobates, for theſe qualificatio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doth belong to ſuch men as yee profeſſe your ſelves
+to be, which I ſhall ſet down, and then let <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſober people judge whether yee be
+reprobate unto them yea, or nay.</p>
+            <p>
+               <hi>1</hi> They ought to be blameleſſe, and whether yee be ſo or nay, be your own Judges,
+who <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> none can live without ſin, and ſo conſequently not without blame, for all ſin is
+blameabl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this particular yee have excluded your ſelves; then watchfull, but what doe yee
+watch fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cept it be opportunity, to promote your corrupt honour, or to augment and exact your
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gaine; then of good behaviour, that is not to raile, and to curſe, and to ſtir up people
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mults, and to ſtoning thoſe who are not of your judgement, this is evill behavi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>;
+then giv<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to hoſpitality, as to this, let the poor people who in your Pariſhes goes in cold
+and hunge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> while you live in fulneſſe and idleneſſe, beare witneſſe againſt you, then
+apt to teach, in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alſo are ye far ſhort, who muſt take a weekes time to ſtudy, to teach
+the people two or thr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> houres, and yet cannot get your deviſed ſtudyed ſtuffe to hold
+together, but one while is co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>firming that, which it may be the ſame day, or ſhortly after,
+you will deny againe, then <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> given to wine, no ſtrikers, how many of you have beene guilty
+herein, in drunkenneſſe, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſtriking, and ſetting others on to ſtrike, would be too
+tedious to mention here, but who deſi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to be informed of them and their manners, let them in
+ſincerity take notice of th m, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they ſhall come to underſtand their ſpirit, alſo
+ſome of their workes of this nature are alre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> printed and preſented to publick view, then not
+greedy of filthy lucre, and in this particul<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> how far your greedyneſſe hath appeared beyond
+all that have gone before you, let the ſufferi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of them, who for conſcience ſake, could not
+put into your mouths, beare witneſſe against y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> again ſaith the Apoſtle in the
+<hi>7th.</hi> verſe of that <hi>3.</hi> Chapter of the <hi>1ſt.</hi> Timothy, he m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> have a
+good report of them that are without, but how far are yee ſhort of this, who can<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> keepe up a
+goood name amongſt them of your owne Church, but your covetouſneſſe and dece<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is
+mannifeſt among them, notwithſtanding your tiranny doth much ſtop their mouthes, and bl<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="6" facs="tcp:108485:4"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir eyes that they yet ſee not ſo much of your deceipt, as ſhortly they
+will come to ſee.</p>
+            <p>But in briefe, the deſcription of the Church-officers in the whole Scriptures of the A<g ref="char:EOLhyphen"/>po<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tles
+is that they be blameleſſe, which ye ſay none now can be, and that they be filled with the
+holy Ghoſt and with ſaith, which yee ſay they cannot be, for ſin muſt have a room <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n
+them, then they cannot be filled with the other, and that they hold the mi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tery of faith <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n a pure
+conſcience which yee ſay they cannot doe, for ſome ſin muſt remaine, and that defiles the
+conſcience, that they ſhould be gentle towards all Men, in meekeneſſe inſtructing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem
+that oppoſe themſelves; But out of this and all theſe qualifications yee being found, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our
+officiating muſt be like your Officers, and your Officers are like the Members, a body <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it for
+deſtruction together, which the Lord is appearing againſt in his mighty power to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut of head
+and tayle, root and branch together.</p>
+            <p>
+               <hi>4thly,</hi> The Doctrines of your Church alſo are reprovable and corrupt in many things
+contrary to the Scriptures, and firſt in your Doctrines of God, whom you ſay is to be known and
+believed on, as in the diſtinguiſhmant of three Perſons, and herein yee teach contra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to
+the Scriptures of truth, which yee ſay is your rule, and by it are all ſuch Dreamers <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd
+Deceivers judged, and by the ſpirit which gave them forth, which ſpeakes no where <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> three
+Perſons, as yee imagine and teach, but declares of the only wiſe God, who is one <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> being
+and ſubſistence individuall, infinite, who divideth all things, and to every <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir
+portion, who limiteth all things, and is not limited, whoſe power and ſpirit is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>able
+from him, who is the Father of the ſpirits of all fleſh, who by his power <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th, and by
+his ſpirit quickeneth all living Creatures, whoſe power is the Chriſt, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whoſe
+ſpirit is the holy and eternall life, which they partake of, who waites for his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppearance in his
+power, and theſe doth not the Scriptures call three Perſons, but the one witneſſe in the
+Heaven which you are all ignorant of, who dreames and divines to the people of a
+diſtinguiſhment of Perſons in the God-head; therefore ceaſe your deceipt yee Deceivers and
+Sooth ſayers of <hi>Egypt,</hi> and come to the light that ſhines in the heart, that by it yee
+may come to the true knowledge of God your Creator, and of his power by which <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e were created, and
+of his ſpirit by which he quickens into newneſſe of life all thoſe who <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eares him, and
+waites for his ſalvation, which now by the light is makeing manifeſt.</p>
+            <p>
+               <hi>2dly,</hi> Your Doctrine concerning the word of God is altogether reprovable, who teach
+people to beli ve, that that is the word of God that can be bought and ſold for mony, and the
+knowledge thereof attained by humane learning, namely the Scriptures of the Pro<g ref="char:EOLhyphen"/>phets and
+Apoſtles, that you ſay is the word of God, and they that ſay otherwiſe, you ſay muſt be
+curſed, but I tell you this curſe will returne upon your owne heads, who preach contrary to the
+Scriptures, which ſaith Chriſt is the word of God; now if he be the word <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f God, then the
+Scriptures is not except they be Chriſt, which if you thinke they be, de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lare your meaning
+plainly, and if you know any other Chriſt then the Scriptures, then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all yee him the word of God,
+and call the Scriptures a Declaration according as they are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alled by them that wrote them, who
+knew the word of God it ſelfe, which yee being ig<g ref="char:EOLhyphen"/>norant of, have as it were changed the glory of
+the incorruptable and immortall word of
+<pb facs="tcp:108485:4"/>God which abides for ever into the ſimilitude of writings, which had a beginning
+<gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and muſt come to an end, and in the end ſhall you know the word of God to be that wh<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+ſearches your hearts, and Judges your ungodly thoughts and purpoſes, this ſhall abi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with
+you in the end, for this was in the beginning, which the Scriptures was not, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this is it by
+which the Scriptures and all other things came to have a being ſo th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> if the Scriptures muſt
+be called the word of God: becauſe the word came to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Saints, and bid them write them, then
+might Noahs Ark, or Solomons Temple, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Prieſts Garments, or any other thing of the like
+nature be called the word of Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> becauſe by it they were commanded to make them, and furthermore,
+that which the word of God is that which was made fleſh, and if you can tell how or wh<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the
+Scripture was made fleſh, then declare it, or elſe let that be called the word of G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+henceforth that did become fleſh, againe without the word was nothing made that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> made, and
+if the ſcriptures be this word then declare to us, how you know that they w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> before the
+creation, for that which maketh, muſt needs be before the things that by it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> made, farther
+the word of God, ſaith the Apoſtle is quicke and powerfull, and ſhar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then a two edged
+ſword, deviding betweene the ſoule and the ſpirit, but if this be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Scripture then tell
+us what is the reaſon that your ſoules are not thereby divided from <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpirit of iniquity
+and d ceipt that rules over them, but yee imagine that death onel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> make that diviſion as
+if death were more powerfull then the word of God, oh ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and ignorant Prieſts and people,
+how long will yee regard lying vanities, expec<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> where it is not to be had, and like the
+Phariſees of old, think to have eternall <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Scriptures, but will not come to Chri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whoſe
+life is your light turn in your mind <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> own hearts, and feele if Gods word (which is as a
+hammer) be not ſtriking at <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther of your ſins and corruptions, and wait then to feel
+the ſharpneſs of it, to cut and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you from your ſins, that ſo you may witneſſe the
+word in your fleſh (and not in a Book deſtroy the works of the Divell, that the word in the
+heart yee may know which liveth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> abideth for ever, when that by it is deſtroyed, which
+cannot abide for ever, which is your which hitherto hath ſeparated you from the knowledge of God
+and of his powerfull w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>.</p>
+            <p>
+               <hi>3dly,</hi> Your Doctrine of faith is reprovable, and you in it found contrary to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+Miniſters of Chriſt, for you preach that faith cannot be without ſin, and you ſay it is
+h<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſie and error in any to ſay that it can, now this I ſay, if ye knew the true faith whic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+ſaving, ye would ſee that it is contrary in all things to ſin, and would know that in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+of an impoſſibility to ſeperate them, it would be impoſſible to unite them, for faith
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſcriptures is the gift of God, and the gift of God is perfect, and God nor his gift
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no concord with ſin, but giveth the true believe victory over it.</p>
+            <p>But as for your faith which ye ſay cannot be without ſin, is therewith corrupted, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not
+the like precious faith, which the Saints obtained, by which they wrought righteouſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; were
+accepted with the, Lord without which it is impoſſible for you to pleaſe him, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> yee
+performe never ſo many performances, for this, faith which is mixt with ſin, whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the faith of
+the Church of Scotland, is not that by which the juſt lives, but among <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:108485:5"/>profeſſe this faith, is the juſt ſlain in your owne particulars, by the
+ſin which ye con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in, and ſay ye muſt continue in as long as yee live, ſo yee are fur
+ſhort of the Saints hope <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o brought them to purifie themſelves as God is pure, and your faith
+and hope and confi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e which is thus mixt with ſin and unrighteouſneſſe is excluded from
+leading any of you in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e inheritance of the promiſe which is eternall life, for it is the
+faigned or made faith <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hardens the heart, and continues you in the tranſgreſſion, and
+begets in you a bold confi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e in your dark imaginations, which ſhortly ſhall faile you, and
+yee ſhall be ſtrict of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaith and hope, and be left naked to your perpetuall ſhame
+and confuſion, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſore all that deſire to come to the true faith which gives victory over
+the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and that which is in the world, they muſt firſt come to that which true faith is
+placed in, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is the light wherewith Chriſt Jeſus hath enlightened every one that commeth
+into the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and that all men through him might beleive and Chriſt himſelfe ſaid that
+they ſhould <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve in the light, and this is it which doth ſecretly make manifeſt, and reprove
+the workes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arkeneſſe which are done out of the faith, and are diſpleaſing to God and who
+beleeves in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> light they muſt beleive againſt ſin and the power of it, and ſo as they
+abide ſtedfaſt in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, watchfull to that in which they have beleived, then the power of
+this faith comes to be in the creature, that as they have beleived againſt ſin, ſo they come
+to receive power a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſin, for according unto their faith ſo happeneth it unto them, and
+according unto your faith <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive you can never be made free from your ſins, ſo alſo will
+it happen unto you, ſo long <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>de in that beleife yee ſhall abide ſervants of ſin, and ſo
+free from righteouſneſſe.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>bly, Concerning election, and herein have yee erred exceedingly from the truth, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+truth ought yee to be reproved and judged, who holds forth in your Church that God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pected
+a certaine number of perſons to himſelfe without cauſe or quality in them ſcene <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſidered,
+and that theſe he hath elected unto ſalvation, by an unalterable decree that they be ſaved
+from the wrath of God, and that all the reſt are under an irrevocable decree of nation; for when
+no way of ſalvation is left, nor no effectuall meanes found for the ſalva<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of them, that
+doctrine is not of God but of your Father the Devill, who was a lyer from beginning, if he telleth
+a lye it is of himſelfe, but if yee tell a lye it is of him, and from is thy doctrine ſprung,
+who rules in the Kingdome of darkneſſe, and deſires that none might <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the knowledge
+of the truth, nor be ſaved, and ſo hath ſet you to preach this doctrine <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rdly unto ignorant
+people, (who generally have believed it) while he in the meane time <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>relly ſuggeſting in
+ſome of them, that they are elected, and ſo what ſin ſoever they live in, of mar their
+election ſeeing it is without condition or qualification, and mans workes of alter nor change
+Gods decrees, and many ſuch like reaſonings as this learn they from deceiver within, and from
+the deceivers without, and he alſo is perſwading others that they not elected, but are of the
+greater number, which the Prieſts ſaith no ſalvation nor re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tion is for, and ſo they may
+take their courſe, and ſpend their time in pleaſure, for can but go to hell in the end, and
+all their godlineſſe and ſoberneſs, and ſtrickt<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, and abſtinence from pleaſure,
+and whatever they can do cannot change the
+<pb n="9" facs="tcp:108485:5"/>purpoſe of God concerning their damnation, and ſo by theſe and ſuch like
+meanes and inſtruments doth the devill uphold his Kingdome, and keepe you from preaching him or
+believing on him, who is the way to the Father, Chriſt Jeſus the light of the world, who
+lighteth every man with the true light with which he may ſee that which was wrought in
+darkneſſe (which is the reprobate ſtate) and be led out of it according to Chriſts words,
+who ſaid I am the light of the world, he that believeth on me ſhall not abide in darkneſſe,
+but ſhall have the light of life; he ſaid not if the elect beleive on me but [he that] a
+gene<g ref="char:EOLhyphen"/>rall terme to every one that cometh into the world and is enlightened with this true light,
+and this is the love of God to the Sons and Daughters of men, who wills not the death of them that
+doe dye, [marke] them are reprobated that doe dye, but God wills it not, but rather that they
+ſhould turn and live; but yee that preach this doctrine, yee would live without turning, but the
+Sword of the Lord is drawne againſt your life, and ſhall cut it off, for it ſtands, but by an
+imagination of ſuch a decree, as by which ſinners might be ſaved in their ſins, and then
+you ſhall know, that the way of ſalvation was ſet open to you, in that the light ſhined in
+your hearts; but yee rejecting that way, and ſeeking to eſtabliſh a way of your owne; ſo
+yee became excluded, and ſhut out of the Kingdome after long talking of it.</p>
+            <p>And therefore all yee people of Scotland, and to whomſoever this ſhall come of wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> people
+or country ſoever yee be, conſider in the feare of God, whether yee be lighted <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a light
+that doth make manifeſt your evill deeds, and words, and purpoſes in the ſecret <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your
+hearts, yea or nay, and if yee find ſuch a thing, then mind diligently its working in you, for in
+it is reproofes of inſtruction which the Scriptures ſaith is the way of life, and the way of
+life is but one, and having found it, every one in your owne particulars, then no longer follow nor
+harken to the deceivers, who for a long time hath beguiled you, leading you from the light, the
+way, the truth, and the life of men, and ſo kept you in death and darkneſſe, where
+ſalvation is not to be found, and theſe have told you, that they have preached the Goſpell to
+you, for the ſalvation of your ſoules, and yet tells you alſo that as many of you as ever
+ſhall be ſaved were ſaved before you were borne, then to what pur<g ref="char:EOLhyphen"/>poſe is all their
+preaching to you, if they cannot convert a reprobate, nor an elect perſon cannot ſin unto
+condemnation, where then is the uſe of their miniſtry which they have ſo many thouſands of
+marks and hundreds of pounds a yeare for, if they anſwer and ſay this is the meanes to gather
+in them that are elected; I anſwer, God will not looſe any for want of meanes, and therefore he
+hath afforded the meanes freely without mony or priſe to all the ſons of men who bath ſo
+loved the world that he hath given his onely begotten Son a meanes and a way of ſalvation for as
+many as believe on him, and he is the grace by which the Saints were and are ſaved which
+appeareth to all men, and bringeth ſalvation nere unto all without reſpect of perſon, who are
+taught by him to deny ungodlyneſſe, and wordly luſts, and to live ſoberly and righteouſly
+in this preſent World, but if yee ſtill con<g ref="char:EOLhyphen"/>tinue to be taught by them that turne the grace of
+God into wantonneſſe, and deſpiſe that
+<pb n="10" facs="tcp:108485:6"/>which ſhines in the heart, to lead out of ſin, which it makes manifeſt,
+then ſhall you per<g ref="char:EOLhyphen"/>iſh in your gainſaying, and in the day of your calamity and miſery yee
+ſhall know and confeſſe to your unſpeakable ſorrow and torment, that a priſe was put
+into your hands, and a way of life was declared and made manifeſt, but yee loving your ſins and
+iniquitys, your delights and pleaſures, which the light and way of life appeared againſt; were
+unworthy of this free ſalvation, and ſo your condemnation, yee ſhall confeſſe to be of
+your ſelves in that day, when God the righteous Judge will be cleare of all your blood, and then
+ſaying God is partly too blame, and man is partly too blame that Men goe to Hell will not ſerve
+turne, which one of the chiefe Prieſts of your Scottiſh Church affirmed, [Henry Foreſide
+Prieſt of Lingich] but his folly and many ſuch blinde guides is now made manifeſt with the
+light, which they are riſen up againſt, but they ſhall not proceed much farther, for their
+skirts are diſcovered to their ſhame.</p>
+            <p>Many more of the Doctrines of your Church are reprovable, and for condemna<g ref="char:EOLhyphen"/>tion with the light,
+which light as the diligent Readers comes to mind, in its working and breaking forth, they ſhall
+ſee and be able to meaſure and to trye your Doctrines therewith, and will be able to comprehend
+your deceipt in many other of your Doctrines, which now I am not free to inſist upon; As of
+ſanctification, in which yee allow an <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſanctified part to remaine, and ſo never brings
+people to know nor to hope for the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>row cleanſing, which the Saints witneſſed, except it be
+after death, when no ſuch <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rke can be wrought, and alſo your Doctrine of juſtification in
+ſin will be ſeene, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Gods righteouſneſſe will be cleared againſt your lying and
+deceipt, and ſo of Adoption, and Reſurrection, and Glorification, and what elſe is preached
+amongst you, will be ſeen with the light, by them that loves it, to which I commend them, in whom
+is ſincerity of heart, and ſhall proceed a little further to your Ordinances.</p>
+            <p>
+               <hi>1st,</hi> And firſt concerning that rotten tradition, which you call an Ordinance, or
+Baptiſme, namely your caſting a few drops of water upon the face of an Infant of about eight
+dayes old, this you call an Ordinance, but could never yet finde out the inſtitution thereof by
+Chriſt nor his Diſciples, for any ſigne or ſignification whatſoever, much leſſe can
+you prove it to be the one Baptiſme, neither can you prove that ever any ſuch thing was done by
+any of them; ſo yee have neither precident nor precept from the holy men of God, and therefore
+well may I call it a rotten tradition that hath not ſo much as a preſident to ſupport it,
+except it be a Popiſh one, from whence it was derived, from the Whoriſh Church of Rome your
+Mother, whome you raile againſt in words, and obey in her unwarrantable practiſes, and with her
+ſhall you have your portion, now this conceited charme, or tricke of caſting a few drops of
+water upon Childrens faces, you call Baptiſme, wherein you have proclaimed to all underſtanding
+people, that from the greateſt of you to the leaſt, you are all ignorant of the Baptiſmes the
+Scriptures ſpeakes of, which had a time and ſervice, and ended it that which abides for euer,
+and ſo being ignorant of them, have in their roome
+<pb n="11" facs="tcp:108485:6"/>ſet up a conceit and tradition, which hath not ſo much as the leaſt ground
+in the Scrip<g ref="char:EOLhyphen"/>tures of truth, neither is mentioned therein, nor was it invented many yeares after,
+and th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was it inſtituted by the Pope, obeyed by the Papiſts, and ſince continued and
+obſerved in your Scottiſh Church, which from thence is ſprung; but the true Baptiſme is
+that which was inſtituted by Chriſt, and is owned and witneſſed by the Saints, and denyed
+by the Romiſh and Scottiſh, which Baptiſme is into the name of the Father, Son and Holy
+Spirit, which name is a ſtrong Tower, and all that are baptiſed into it find ſtrength in it,
+and help againſt temptations, and in the time of trouble findes deliverance by it, and this the
+Saints witneſſed, who witneſſed the one Baptiſme by one ſpirit into one body; for
+ſaith the Apoſtle in the <hi>6</hi> Rom. <hi>3, 4.</hi> for ſo many of us as were Baptiſed
+into Jeſus Chriſt, were baptiſed into his death, that like as Chriſt was raiſed up from
+the dead by the glory of the Father, even ſo we alſo ſhould walke in newneſſe of life:
+now in that he dyed, he dyed unto ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n; and they that are baptiſed with the one Baptiſme, they
+are planted together with Chriſt in the likeneſſe of his death which is unto ſin, verſe
+<hi>10.</hi> and ſuch alſo come to partake of the reſurrection and life which is in Chriſt
+Jeſus, and in that they live, they live unto God and not unto themſelves, having crucified the
+old Man with his deeds, and hath the body of ſin deſtroyed, and henceforth being dead unto
+ſin they ſerve it not, but witneſſeth the Baptiſme which now ſaveth, makeing cleane the
+conſcience in the ſight of God by the waſhing of Regeneration.</p>
+            <p>Now all people that deſire farther to know of this one Baptiſme which is a dyin<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> unto
+ſin, and a cleanſing or waſhing from the filthineſſe both of fleſh and ſpirit; you
+muſt turn your mindes to the manifeſtation of Gods ſpirit within, which is given free<g ref="char:EOLhyphen"/>ly of
+God for you to profit withall, and with it will you ſee the ſpots that remaines upon you,
+notwithstanding your outward traditionall Baptiſme of what ſort or manner ſo ever it be, and
+alſo it will give you to underſtand that the Baptiſme which is the anſwer of a good
+conſcience, and which is the ſimilitude of Chriſt death which is unto ſin is yet wanting;
+and ſo by waiting in that which maketh manifeſt thoſe things which yee ſhould dye unto,
+then will yee feele the name of God revealed in you, which is the ſtrength and power which only
+is able to kill ſin, and truſting and believing in this the true faith comes firſt to be
+witneſſed, and then the one Bap<g ref="char:EOLhyphen"/>tiſme which cleanſeth and purifieth will be witneſſed,
+which bringeth into the everlaſt<g ref="char:EOLhyphen"/>ing Covenant which God is makeing with his holy Seed, which he
+is now gathering from <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>der all the ſhaddowes, and alſo from among all the inventions of Men
+to ſerve him in meekneſſe and feare in that worſhip which is inward in the ſpirit and in
+the truth.</p>
+            <p>
+               <hi>2dly.</hi> The next thing is your imitable cuſtome of eating and drinking Bread and Wine
+which you call a Sacrament of the Lords Supper, and in this imitation ſtands much of your darke
+fellowſhip and communion, but no warrant from Scripture have you for any ſuch practiſe, for
+Chriſt nor his Apoſtles never commanded Swearer,
+<pb n="12" facs="tcp:108485:7"/>and Lyers, and covetous Perſons, and Fighters, and Perſecutors, that they
+ſhould obſerve any ſuch thing at any time ſuch as yee are, for when ever yee eat or drinke
+it is unworthily, as yee your ſelves ſometimes confeſſe, and ſo your damnation muſt
+needs be the greater.</p>
+            <p>Notwithſtanding Chriſt the ſame night he was betrayed gave his Diſciples his fleſh to
+eat and his blood to drinke who afterward was to partake and injoy him in that which was
+ſignified by the Bread and the Cup, when he tooke Bread and bleſſed it, and ſaid take eat
+this is my body which they tooke and eat and diſcerned his body of which they were Members, and
+as oft as they did this they remembred him who ſaid I goe away; but I come againe, and ſo
+alſo the cup he ſaid was the new Teſtament in his blood which they then participating of, and
+keeping in remembrance him who dyed, who was to be raiſed up from the dead through faith and
+patience they came to have the new covenant in their hearts, which was the ſubſtance of the
+figure in the blood, they being firſt therwith ſprinkled from an evill conſcience, and
+waſhed in their bodyes with pure wa<g ref="char:EOLhyphen"/>ter which is one with the blood; but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow far yee are from
+this ſtate let Gods witneſſe in your conſciences, and your owne mouthes beare witneſſe:
+Now notwithſtanding Chriſt did inſtitute ſuch a thing as this among his Diſciples, who
+had followed him in the regenera<g ref="char:EOLhyphen"/>tion, and had continued with him in his temptations, this was
+nothing to them, who be<g ref="char:EOLhyphen"/>lieved not on him, neither is it any thing to you who are curſing them
+that beare witneſſe to him, that he is come a light into the world, and hath lighted every man
+that cometh into the world, and that witneſſe, he is come againe the ſecond time without
+ſin unto ſal<g ref="char:EOLhyphen"/>vation according to his promiſe theſe you curſe and perſecute: ſo your
+cup is not the cup of bleſſing which the Apoſtle ſpeakes of, <hi>1</hi> Cor.
+<hi>10.16.</hi> Which is the Communion of the blood of Chriſt which cleanſeth from all ſin:
+neither is that bread which they breake the Communion of the body of Chriſt, for Paul ſaith,
+they them ſelves were the bread and the body which is but one; but this he ſaid he ſpake to
+wiſe men, and if any have an eare, let them heare, but as for your part yee are ſo fooliſh
+and unwiſe, that the bread yee breake is carnall loaves which feedes nothing but the carnall body
+which is no part of Chriſts bo<g ref="char:EOLhyphen"/>dy that is hid from your carnall eyes, and ſealed from your
+carnall imaginations, and his ſecond comming which is without ſin yee cannot believe, and ſo
+his firſt comming will do you no good, and your carnall bread and wine will never bring any of
+you to know nor remember his death, nor to ſhew it forth, for in that he dyed, he dyed unto
+ſin, neither will his comming be unto ſalvation; when he appears again unto you; but unto
+damnation who diſcer<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot his body but curſeth and perſecuteth his members, but all that
+deſires to know the Supper of the Lord in ſincerity, they muſt come to the light in the heart
+which cometh from Chriſt, and that will ſhew them that which hath crucified Chriſt and
+ſlaine the Lambe, and oppreſt the juſt in their own particulars, and then the fear of God
+being placed in the heart, and the want of Chriſt being felt, who by ſin and through
+tranſgreſſion is crucified, then ſhall you ſecretly
+<pb n="13" facs="tcp:108485:7"/>come to feele a hope of his reſurrection, and ſo then as oft as yee eate and
+drink it will be in the fear of God and in remembrance of your own unworthineſſe, and alſo in
+rememberance of him who is to come to ſanctifie the creatures; which as he comes to be raiſed
+to life which hath been ſlaine in you, this appearance is the ſecond appearance which is
+without ſin unto ſalvation, and till yee witneſſe this, as oft as yee eat and drink, doe it
+in the fear of God and in remembrance of Chriſt ſo ſhewing forth his death till he comes, who
+when he comes will ſhew forth his owne life, who is God over all bleſſed for ever, Amen.</p>
+            <p>And theſe two, you call Sacraments, which you have as little ground for, out of the Scripture,
+as you have to practice them; but are delighting your ſelves in the workes of your owne hands,
+and giving names to your Idolls; like the Heathens and Idolators before you. But if you ſay they
+are obliging miſteries; I anſwer, how comes it to paſſe, that you, who have beene ſo long
+exerciſed therein, is no nearer obliged to God, but re<g ref="char:EOLhyphen"/>maines in the alienation of your mindes;
+ſuch ſtrangers to him, that one of your owne Preiſts ſaid to a company of you, in my
+hearing, that the lowing of Oxen, and the blee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing of Sheepe, would give as good an account of
+what God and Chriſt was, as your an<g ref="char:EOLhyphen"/>ſwers would doe, if yee were asked; but your Idolls ſhall
+be broken, and their names ſhall you be aſhamed off, as they were aſhamed of the Groves, and
+the greene Trees, under which they had worſhipped their Idolls, whom God confounded before you,
+and then your Water, and Wine, and Cakes, and ſuch like things, which you call Sacraments, and
+your Maſſe-houſes, which you call Churches, ſigned with the Popes Groſſe, your
+prede<g ref="char:EOLhyphen"/>ceſſors, theſe things will but all adde to your ſhame and ſorrow. Therefore
+whilſt you have time lay aſide theſe carnall and fooliſh traditions, and come to the light
+which lets peo<g ref="char:EOLhyphen"/>ple ſee over them all, to the one Baptiſme it ſelfe, and to the Supper (and
+Table of the Lord) it ſelfe, and to the Church it ſelfe, which is in God the Father of our Lord
+Jeſus Chriſt, as you may read, <hi>1</hi> Theſſ. <hi>1.2.</hi>
+            </p>
+            <p>And laſtly, the Diſcipline of your Church, doth appeare contrary to the Diſcipline of the
+true Church, and in this particular yee have ſo far proceeded already, within theſe few yeares,
+that yee have thereby much manifeſted your ſelves, even to many, who did not before ſee you;
+for this many hath looked upon, as a taile of a Scorpion, with which yee have ſought to bend that
+ſting, and venome, which lodged in your hearts, againſt the true Church, which yee could not
+vent with your tongue nor hands; but this alſo will the Lord cut off, that the Scorpions ſhall
+hurt no more; your ſting begins to decay, and your force to faile you, and people begins to walke
+ſafely in the path of peace, and in the way of righteouſneſſe; notwithſtanding your
+taile, or your tongue, to the greife of your hearts, which is filled with miſcheife, againſt
+the righteous in the Land: But the Lord is their deliverer, and according to the evil of your
+deſires againſt the innocent; even ſo ſhall your reward be.</p>
+            <p>Now the true Church they did obſerve, that if any that was called a Brother, ſhould be a
+Fornicator, a Railer, and Extortioner, a Covetous perſon, an Idolater, or a Drunk<g ref="char:EOLhyphen"/>ard,
+<pb n="14" facs="tcp:108485:8"/>with ſuch a one not to eat; now if you would obſerve this in your
+brother-hood, yee would quickly be ſcattered one from another; your Preiſts ſuſpended, for
+their Cove<g ref="char:EOLhyphen"/>teouſneſſe, and Drunkenneſſe, and Railing; the people ſuſpended for their
+Fornication, and Idolatry, and Extortion, and Railing, and Fighting, and many other miſdemeanors;
+your Communion would ſoone fall; but you, who are a body, or Church ſo called, made up of
+ſuch as theſe, yee take another courſe to uphold your fellowſhip; for if any, who hath
+beene one with you in theſe things before mentioned, doth come to ſee with the light, wherewith
+Chriſt hath lighted them, that theſe things are diſpleaſing to God, and ſo dares not goe
+on with you any longer in them, but declares againſt your Idolatry, your covetouſneſſe,
+your railing, and it is with ſuch a one, that you will not eat, nor drinke, nor buy, nor ſell.
+Oh abominable depth of Satan, this is the way you have found out, to keep people from believing in
+the truth, and from departing from your corrupt and curſed practices: In ſhort, this is as your
+Fathers the Jewes did, who were the crucifiers of the Lord of life; if any then did confeſſe
+him to be the Chriſt, that ſaid, I am the light of the world; who lighteth every man that
+cometh into the world, they muſt be caſt out of their Synagogue, [marke] out of the Synagogues
+of the unbelievers, and crucifiers: ſuch as yee, who cannot, nor will not have any fellowſhip
+with them, that beleives in the light, that they may be made Children of the light, your latter end
+ſhall not be like unto theirs.</p>
+            <p>Furthermore, the Apoſtle exhorted the Corinthians, to deliver the inceſteous perſons to
+Satan, for the deſtruction of the fleſh, that his ſoule might be ſaved in the day of the
+Lord; but he did not intend the deſtruction of his body, as yee wickedly doe, who thirſts after
+blood to aſſwage the flame of your envy, but the Lord will quench that flame, and yee that
+deſires blood, yee ſhall have blood to drinke, but the Apoſtle fought not with fleſh and
+blood, but againſt ſpirituall wickedneſſe, and againſt inceſtion and fornication, and
+Idolatry; but yee make war againſt the fleſh and blood, and ſeekes the deſtruction of the
+outward bodyes as much as in you lyes; but thoſe who believes in the light, and truſts in the
+Lord, the God of our ſalvation: the power that ſaveth out of ſin, and
+un<g ref="char:EOLhyphen"/>righteouſneſſe, them will he deliver out of your bloody hands, and from your cruell teeth,
+and from the reach, and venome of your hurtfull taile; but it may be you will ſay, although we
+have no criminall fact to lay to their charge; whom we have caſt out of our Church, of whom you
+ſpeake; yet they are Heretickes, and it was Pauls councell that one that is an Heretick after the
+firſt and ſecond admonition, Reject. I anſwer, if this were obſerved among you, there would
+be none found to reject? for all would be found to be re<g ref="char:EOLhyphen"/>jected, and this is the reaſon, that
+whoſoever comes to be members of the true Church; doth reject you, becauſe of your Hereſie in
+doctrine, and corruption in converſation? but after that way which you call Hereſie, worſhip
+we the God of our Fathers, who wrought the holy Scriptures by inſpiration of the holy ſpirit,
+and according thereunto, we believe in the true light, that lighteth every man, that commeth into
+the world; which (our) beleife you call Hereſie, and we beleive that this light wherewith every
+man is
+<pb n="15" facs="tcp:108485:8"/>enlightened, is a ſufficient light, to lead all that follow and obey it, to
+eternall life, and this you call Hereſie: and that this light is the perfect and beavenly gift of
+God, and whoſoever yeilds himſelfe into the obedience of it, ſhall thereby be tranſlated
+from dark<g ref="char:EOLhyphen"/>neſſe, and the workes thereof which is ſin, and be brought to live righteouſly
+and holyly in this life, and this alſo you call Hereſie, and many more things, which in the
+Scrip<g ref="char:EOLhyphen"/>tures are declared, and by us believed and witneſſed, doe you call Hereſie, as may
+ap<g ref="char:EOLhyphen"/>peare in a booke lately publiſhed by the Presbitery, at Edenborough, to their ſhame called a
+teſtimony againſt the petition, for tolleration; wherein your envious and bloody ſpirit is
+ſufficiently ſet forth, to every judicious Reader, againſt the life of the Scriptures, and
+whomſoever into it is come; But your cainiſh ſpirit is ſeene, and your end is at hand, and
+your reward ſhall be according to your workes.</p>
+            <p>And now all yee people of Scotland, in whom is ſincerity and ſimplicity unto whom this
+ſhall come; conſider in the feare of the Lord, where you are, and who you are joyned with, and
+againſt whom yee take part, while yee abide in this Church, and ſearch the Scriptures, your
+ſelves, and ſee whether theſe things be ſo or nay, and come out from amongſt them, and
+partake no longer of their ſins; leaſt you partake alſo of their plagues, which is neare
+comming upon them; and praiſe the Lord, who hath ſpared you untill now, and cauſed his light
+to breake forth to diſcover their wayes, and workes of darkneſſe; before yee are overwhelmed
+by his judgements, and as in ſincerity, yee come to try theſe things with the light in it, yee
+will ſee more light, and by it an under<g ref="char:EOLhyphen"/>ſtanding will be opened in you, to ſee into their
+abominations, and deceits; beyond what is heare declared; but if yee reject this, the day of your
+viſitation, then ſhall yee be ſhut up in darkneſſe, and your ignorance ſhall
+increaſe; and your hearts ſhall be heardened, and yee made fit for the indignation and wrath of
+God, to be powered forth upon, when the meaſure of your iniquityes ſhall be fulfilled.</p>
+            <p>While you have time, priſe it, and while you have light love it, and beleive in it that you
+may be made Children of it.</p>
+            <closer>
+               <signed>S. C.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
